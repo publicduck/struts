@@ -21,6 +21,10 @@ limitations under the License.
     <tr>
         <td><b>ID</b></td>
         <td>${user.id }</td>
+           <tr>
+               <td><b>ID</b></td>
+               <td><s:property value="user.id"/></td>
+           </tr>
     </tr>
     <tr>
         <td><b>First Name</b></td>
